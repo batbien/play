@@ -1,1 +1,1 @@
-print 'Hello I am a normal dog'
+print 'Hello I am a very nice dog'
