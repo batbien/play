@@ -1,1 +1,1 @@
-print 'Hello I am dog'
+print 'Hello I am nice dog'
