@@ -13,7 +13,6 @@ number of times.
 * All texts are ASCII strings.
 * The _input string_ (the payload) of the attacker will be prepended by a (unknown) _prefix_ and appended by a _suffix_ which is the secret plaintext:
 
-  
     +--------+-------+
     |     prefix     |
     +--------+-------+
