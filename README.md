@@ -15,6 +15,7 @@ number of times.
 (unknown) _prefix_ and appended by a _suffix_ which is the secret plaintext:
 
 foo  
+
     +--------+-------+
     |     prefix     |
     +        +-------+
