@@ -14,7 +14,7 @@ number of times.
 * The _input string_ (the payload) of the attacker will be prepended by a 
 (unknown) _prefix_ and appended by a _suffix_ which is the secret plaintext:
 
-
+foo  
     +--------+-------+
     |     prefix     |
     +        +-------+
