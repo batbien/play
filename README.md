@@ -11,22 +11,20 @@ are fulfilled it can brute force the whole secret plaintext.
 This means he can commands the target to encypt stuff for him for an infinite 
 number of times.
 * All texts are ASCII strings.
-* The _input string_ (the payload) of the attacker will be prepended by a (unknown) _prefix_ and appended by a _suffix_ which is the secret plaintext:
+* The _input string_ (the payload) of the attacker will be prepended by a 
+(unknown) _prefix_ and appended by a _suffix_ which is the secret plaintext:
 
-
-foo
-
-+--------+-------+
-|     prefix     |
-+        +-------+
-|        |       |
-+--------+       +
-|     payload    |
-+        +-------+
-|        |       |
-+--------+       +
-|     suffix     |
-+--------+-------+
+    +--------+-------+
+    |     prefix     |
+    +        +-------+
+    |        |       |
+    +--------+       +
+    |     payload    |
+    +        +-------+
+    |        |       |
+    +--------+       +
+    |     suffix     |
+    +--------+-------+
 
 foo
 
