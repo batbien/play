@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+print 'Hello I am a normal dog'
+||||||| merged common ancestors
+print 'Hello I am nice dog'
+=======
+print 'Hello I am a very nice dog'
+>>>>>>> origin/bugfix
